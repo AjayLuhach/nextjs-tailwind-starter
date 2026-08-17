@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "ctaButtons": {
+      "viewWork": "View My Work",
+      "getInTouch": "Get In Touch"
+    }
+  },
+  "about": {
+    "title": "Get Started with Your Next.js Project",
+    "description": "This is a simple Tailwind CSS portfolio template built with Next.js. It is fully responsive and customizable, making it easy to showcase your work and skills."
+  },
+  "footer": {
+    "rightsReserved": "All rights reserved.",
+    "builtWith": "Built with Next.js, Tailwind CSS, and ❤️"
+  },
+  "themes": {
+    "light": "Light",
+    "dark": "Dark",
+    "blue": "Blue",
+    "matrix": "Matrix",
+    "system": "System"
+  },
+  "ariaLabels": {
+    "githubProfile": "GitHub Profile",
+    "linkedinProfile": "LinkedIn Profile",
+    "emailUser": "Email {name}",
+    "toggleTheme": "Toggle theme"
+  }
+}

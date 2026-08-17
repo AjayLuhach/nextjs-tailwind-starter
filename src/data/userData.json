@@ -1,0 +1,66 @@
+{
+  "personalInfo": {
+    "name": "Ajay Kumar",
+    "title": "Frontend Developer",
+    "email": "ajayluhach4@gmail.com",
+    "phone": "+91-9996033865",
+    "location": "V.P.O Bhartana, Jind, Haryana, 126113, India",
+    "github": "https://github.com/AjayLuhach",
+    "linkedin": "",
+    "bio": "Passionate about building beautiful, functional, and user-friendly web experiences.",
+    "description": "Hi, I'm Ajay Kumar, a passionate Frontend Developer based in Haryana, India. I specialize in crafting engaging and user-friendly interfaces using modern web technologies like React, Next.js, and TypeScript.",
+    "education": "Diploma in Computer Engineering from CRP Rohtak (completed in 2023)",
+    "additionalInfo": "I hold a Diploma in Computer Engineering from CRP Rohtak (completed in 2023) and have since gained practical experience building real-world applications. My focus is on writing clean, efficient, and maintainable code while ensuring a great user experience across all devices. I thrive in collaborative environments and enjoy tackling complex UI challenges. From building intricate dashboards with real-time data to implementing robust design systems, I'm always eager to learn and apply new techniques to deliver high-quality results. Outside of coding, I enjoy exploring new technologies and contributing to open-source projects. Let's connect and build something amazing together!"
+  },
+  "titles": [
+    "Frontend Developer",
+    "React/Next.js Expert", 
+    "UI Craftsman"
+  ],
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" }
+  ],
+  "seo": {
+    "siteName": "Ajay Kumar - Frontend Developer",
+    "defaultTitle": "Ajay Kumar - Frontend Developer Portfolio",
+    "defaultDescription": "Portfolio of Ajay Kumar, a skilled Frontend Developer specializing in React, Next.js, and modern UI/UX.",
+    "keywords": "Ajay Kumar, Frontend Developer, React Developer, Next.js Developer, UI/UX, Web Developer, Portfolio",
+    "author": {
+      "name": "Ajay Kumar",
+      "url": "https://github.com/AjayLuhach"
+    },
+    "website": {
+      "url": "https://your-deployed-url.com",
+      "ogImage": "https://your-deployed-url.com/og-image.png",
+      "twitterImage": "https://your-deployed-url.com/twitter-image.png"
+    },
+    "openGraph": {
+      "title": "Ajay Kumar - Frontend Developer Portfolio",
+      "description": "Explore the projects and skills of Ajay Kumar, a passionate frontend developer.",
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ajay Kumar - Frontend Developer Portfolio",
+      "description": "Explore the projects and skills of Ajay Kumar, a passionate frontend developer.",
+      "site": "@yourTwitterHandle",
+      "creator": "@yourTwitterHandle"
+    },
+    "pages": {
+      "about": {
+        "title": "About Me | Ajay Kumar - Frontend Developer",
+        "description": "Learn more about Ajay Kumar, his background, skills, and experience in frontend development."
+      },
+      "contact": {
+        "title": "Contact | Ajay Kumar - Frontend Developer",
+        "description": "Get in touch with Ajay Kumar for collaborations, projects, or inquiries."
+      },
+      "projects": {
+        "title": "Projects | Ajay Kumar - Frontend Developer",
+        "description": "Explore the projects developed by Ajay Kumar, showcasing skills in React, Next.js, Angular, and more."
+      }
+    }
+  }
+}
